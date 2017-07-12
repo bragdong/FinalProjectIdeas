@@ -11,7 +11,7 @@ This application would provide the ability to leverage your development staff an
 - query mechanism to retrieve list of resources avaiable that meet certain criteria for a project need
 
 
-## Project Technologies:
+### Project Technologies:
 - templating engine
 - Java
 - JDBC
@@ -32,7 +32,7 @@ application could have some of the following features:
 - Tag and or like videos
 
 
-## Project Technologies:
+### Project Technologies:
 - templating engine
 - Java
 - JDBC
